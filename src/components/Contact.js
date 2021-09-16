@@ -11,13 +11,13 @@ class Contact extends Component{
 		<li class="breadcrumb-item">
 		<Link to='/'>Home</Link>
 		</li>
-		<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+		<li class="breadcrumb-item active" aria-current="page">Login Page</li>
 	</ol>
 </div>
     <section class="content-info py-5">
         <div class="container py-md-5">
             <div class="text-center px-lg-5">
-                <h3 class="heading text-center mb-3 mb-sm-5">Contact Us</h3>
+                <h3 class="heading text-center mb-3 mb-sm-5">LOGIN PAGe</h3>
                 <div class="title-desc text-center px-lg-5">
                     <p class="px-lg-5 sub-wthree">.</p>
                 </div>
@@ -31,15 +31,11 @@ class Contact extends Component{
                                 <input class="form-control" type="text" name="Name" placeholder="" required="" />
                             </div>
                             <div class="form-group">
-                                <label>Last Name</label>
-                                <input class="form-control" type="text" name="Name" placeholder="" required="" />
-                            </div>
-                            <div class="form-group">
                                 <label>Email</label>
                                 <input class="form-control" type="email" name="Email" placeholder="" required="" />
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-6" hidden>
                             <div class="form-group">
                                 <label>Write Message</label>
                                 <textarea class="form-control" name="Message" placeholder="" required=""></textarea>
