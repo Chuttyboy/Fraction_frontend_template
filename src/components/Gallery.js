@@ -22,32 +22,32 @@ class Gallery extends Component{
             <div class="gallery-content">
                 <div class="row">
                     <div class="col-md-4 col-sm-6 gal-img">
-                        <a href="#gal1"><img src="assets/images/g1.jpg" alt="aegis" class="img-fluid mt-4" /></a>
+                        <a href="#gal1"><img src="assets/image/ban1.jpg" alt="aegis" class="img-fluid mt-4" /></a>
                     </div>
                     <div class="col-md-4 col-sm-6 gal-img">
-                        <a href="#gal2"><img src="assets/images/g2.jpg" alt="aegis" class="img-fluid mt-4" /></a>
+                        <a href="#gal2"><img src="assets/image/ban1.jpg" alt="aegis" class="img-fluid mt-4" /></a>
                     </div>
                     <div class="col-md-4 col-sm-6 gal-img">
-                        <a href="#gal3"><img src="assets/images/g3.jpg" alt="aegis" class="img-fluid mt-4" /></a>
+                        <a href="#gal3"><img src="assets/image/ban1.jpg" alt="aegis" class="img-fluid mt-4" /></a>
                     </div>
 
 
                 </div>
                 <div id="gal1" class="popup-effect">
                     <div class="popup">
-                        <img src="assets/images/g1.jpg" alt="Popup image" class="img-fluid mt-4" />
+                        <img src="assets/image/ban1.jpg" alt="Popup image" class="img-fluid mt-4" />
                         <a class="close" href="#gallery">&times;</a>
                     </div>
                 </div>
                 <div id="gal2" class="popup-effect">
                     <div class="popup">
-                        <img src="assets/images/g2.jpg" alt="Popup image" class="img-fluid mt-4" />
+                        <img src="assets/image/ban1.jpg" alt="Popup image" class="img-fluid mt-4" />
                         <a class="close" href="#gallery">&times;</a>
                     </div>
                 </div>
                 <div id="gal3" class="popup-effect">
                     <div class="popup">
-                        <img src="assets/images/g3.jpg" alt="Popup image" class="img-fluid mt-4" />
+                        <img src="assets/image/ban1.jpg" alt="Popup image" class="img-fluid mt-4" />
                         <a class="close" href="#gallery">&times;</a>
                     </div>
                 </div>

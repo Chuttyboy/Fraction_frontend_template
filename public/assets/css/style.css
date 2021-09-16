@@ -183,21 +183,7 @@ h4.agile-title,h1.agile-title,h2.agile-title {
 }
 
 .csslider>ul>li:first-child {
-    background: url(../images/ban1.jpg) no-repeat center;
-    background-size: cover;
-}
-
-.csslider>ul>li:nth-child(2) {
-    background: url(../images/ban2.jpg) no-repeat center;
-    background-size: cover;
-}
-
-.csslider>ul>li:nth-child(3) {
-    background: url(../images/ban3.jpg) no-repeat center;
-    background-size: cover;
-}
-.csslider>ul>li:last-child {
-    background: url(../images/ban4.jpg) no-repeat center;
+    background: url(../image/ban1.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -209,21 +195,7 @@ h4.agile-title,h1.agile-title,h2.agile-title {
     display: none;
 }
 
-.csslider>input:nth-of-type(3):checked~ul li:first-of-type {
-    margin-left: -200%;
-}
 
-.csslider>input:nth-of-type(4):checked~ul li:first-of-type {
-    margin-left: -300%;
-}
-
-.csslider>input:nth-of-type(2):checked~ul li:first-of-type {
-    margin-left: -100%;
-}
-
-.csslider>input:nth-of-type(1):checked~ul li:first-of-type {
-    margin-left: 0%;
-}
 
 .csslider>ul {
     position: relative;
@@ -676,7 +648,7 @@ h3.heading {
 }
 /*-- inner page banner --*/
 .inner-page-banner {
-    background: url(../images/ban1.jpg) no-repeat;
+    background: url(../image/ban1.jpg) no-repeat;
     background-size: cover;
     min-height: 300px;
     position: relative;
@@ -1093,7 +1065,7 @@ h4.leave-w3ls {
 .single-w3pvt-page img {
     border-radius: 4px;
     -webkit-border-radius: 4px;
-    -o- border-radius: 4px;
+    border-radius: 4px;
     -moz-border-radius: 4px;
     -ms-border-radius: 4px;
 }
@@ -1592,3 +1564,30 @@ h3.tittle.order {
 }
 }
 /*-- //Responsive design --*/
+
+/* datarange */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+* {
+  font-family: "Inter", sans-serif;
+}
+.App {
+  text-align: center;
+}
+.placeholder {
+  border: 1px solid gray;
+  padding: 7px 10px;
+  border-radius: 3px;
+  color: gray;
+  min-width: 200px;
+  text-align: left;
+  font-size: 0.9em;
+}
+
+.placeholderWrap {
+  display: flex;
+}
+
+.placeholderWrap .placeholder:last-child {
+  margin-left: 10px;
+}
