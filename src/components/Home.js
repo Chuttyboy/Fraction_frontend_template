@@ -21,10 +21,10 @@ class Home extends  Component{
 					<div class="bs-slider-overlay">
 						<div class="banner-text">
 							<div class="container">
-								<h2 class="movetxt agile-title text-capitalize">We Create and Renovate Hair Style Trends</h2>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
+								<h2 class="movetxt agile-title text-capitalize">Keep Your Business Safe With Fraction Analytics </h2>
+								<p>Video analytics is a technology that processes a digital video signal using a special algorithm to perform a security-related function.That is, they try to determine if an unwanted or suspicious behavior is occurring in the field of view of a video camera and the algorithm notifies the console operator of the finding.</p>
 								
-								<Link to='/contact' class="btn">Get appointment</Link>
+								<Link to='/contact' class="btn">Get Started</Link>
 							</div>
 						</div>
 					</div>
@@ -35,9 +35,9 @@ class Home extends  Component{
 					<div class="bs-slider-overlay1">
 						<div class="banner-text">
 							<div class="container">
-								<h4 class="movetxt agile-title text-capitalize">We Help to grow your hair as well beard </h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
-								<Link to='/contact' class="btn">Get appointment</Link>
+								<h4 class="movetxt agile-title text-capitalize">Keep Your Business safe with Fraction Analytics </h4>
+								<p>Video analytics is a technology that processes a digital video signal using a special algorithm to perform a security-related function.That is, they try to determine if an unwanted or suspicious behavior is occurring in the field of view of a video camera and the algorithm notifies the console operator of the finding.</p>
+								<Link to='/contact' class="btn">Get Started</Link>
 							</div>
 						</div>
 					</div>
@@ -48,9 +48,9 @@ class Home extends  Component{
 					<div class="bs-slider-overlay1">
 						<div class="banner-text">
 							<div class="container">
-							<h2 class="movetxt agile-title text-capitalize">We Design and Create Hair Style Latest</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
-							<Link to='/contact' class="btn">Get appointment</Link>
+							<h2 class="movetxt agile-title text-capitalize">Keep Your Business safe with Fraction Analytics</h2>
+							<p>Video analytics is a technology that processes a digital video signal using a special algorithm to perform a security-related function.That is, they try to determine if an unwanted or suspicious behavior is occurring in the field of view of a video camera and the algorithm notifies the console operator of the finding.</p>
+							<Link to='/contact' class="btn">Get Started</Link>
 							</div>
 						</div>
 					</div>
@@ -61,9 +61,9 @@ class Home extends  Component{
 					<div class="bs-slider-overlay1">
 						<div class="banner-text">
 							<div class="container">
-								<h4 class="movetxt agile-title text-capitalize">We design latest trending haircuts </h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
-								<Link to='/contact' class="btn">Get appointment</Link>
+								<h4 class="movetxt agile-title text-capitalize">Keep Your Business safe with Fraction Analytics </h4>
+								<p>Video analytics is a technology that processes a digital video signal using a special algorithm to perform a security-related function.That is, they try to determine if an unwanted or suspicious behavior is occurring in the field of view of a video camera and the algorithm notifies the console operator of the finding.</p>
+								<Link to='/contact' class="btn">Get Started</Link>
 							</div>
 						</div>
 					</div>
@@ -90,15 +90,13 @@ class Home extends  Component{
 
                 <div class="title-desc text-center px-lg-5">
 					<img src="assets/images/about1.png" alt="news image" class="img-fluid" />
-                    <p class="px-lg-5">Praesent ullamcorper dui turpis.At vero eos et accusam et justo duo dolores et ea rebum.Integer sit amet mattis quam, sit amet ultricies velit. Praesent ullamcorper dui turpis.
-                        Praesent ullamcorper dui turpis.At vero eos et accusam et justo duo dolores et ea rebum.Integer sit amet mattis quam, sit amet ultricies velit. Praesent ullamcorper dui turpis.</p>
+                    <p class="px-lg-5">Video analytics is a technology that processes a digital video signal using a special algorithm to perform a security-related function.That is, they try to determine if an unwanted or suspicious behavior is occurring in the field of view of a video camera and the algorithm notifies the console operator of the finding.</p>
                     
-					<Link to="/services" class="btn mt-lg-4 mt-3 read scroll" role="button">Learn More</Link>
+					<Link to="/contact" class="btn mt-lg-4 mt-3 read scroll" role="button">Learn More</Link>
                 </div>
             </div>
         </div>
     </section>
-
 
 
     
