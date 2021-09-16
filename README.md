@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ### `permission denied `
 
-If permission denied use this command  " chmod +x node_modules/.bin/react-scripts "
+If permission denied use this command  " `chmod +x node_modules/.bin/react-scripts` "
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
